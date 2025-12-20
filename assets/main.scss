@@ -3,21 +3,3 @@
 ---
 
 @import "styles";
-
-/* 背景画像の設定 */
-body {
-  /* ここをあなたのURLに合わせて書き換えてください */
-  background-image: url('https://shnsuke.github.io/home.png');
-  
-  /* 画面いっぱいに広げる設定 */
-  background-size: cover;
-  
-  /* スクロールしても背景を固定する（パララックス効果） */
-  background-attachment: fixed;
-  
-  /* 画像を中央に配置 */
-  background-position: center center;
-  
-  /* 念のため背景色も指定 */
-  background-color: #f0f0f0;
-}
